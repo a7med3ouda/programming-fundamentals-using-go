@@ -1,0 +1,6 @@
+go 1.27.2
+
+use (
+	./1-programming-fundamentals-using-golang
+	./2-memory-management-and-pointers
+)

@@ -1,0 +1,23 @@
+# --- Go Binaries & Outputs ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.prof
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# --- IDEs & Editors (VS Code, GoLand, etc.) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
